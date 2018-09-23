@@ -1,0 +1,15 @@
+G:\Projects\VisualStudio\RdpClient\RdpClient\bin\Debug\RdpClient.exe.config
+G:\Projects\VisualStudio\RdpClient\RdpClient\bin\Debug\RdpClient.exe
+G:\Projects\VisualStudio\RdpClient\RdpClient\bin\Debug\RdpClient.pdb
+G:\Projects\VisualStudio\RdpClient\RdpClient\obj\Debug\RdpClient.csprojResolveAssemblyReference.cache
+G:\Projects\VisualStudio\RdpClient\RdpClient\obj\Debug\RdpClient.Form1.resources
+G:\Projects\VisualStudio\RdpClient\RdpClient\obj\Debug\RdpClient.Properties.Resources.resources
+G:\Projects\VisualStudio\RdpClient\RdpClient\obj\Debug\RdpClient.csproj.GenerateResource.Cache
+G:\Projects\VisualStudio\RdpClient\RdpClient\obj\Debug\RdpClient.exe
+G:\Projects\VisualStudio\RdpClient\RdpClient\obj\Debug\RdpClient.pdb
+G:\Projects\VisualStudio\RdpClient\RdpClient\obj\Debug\Interop.RDPCOMAPILib.dll
+G:\Projects\VisualStudio\RdpClient\RdpClient\obj\Debug\AxInterop.RDPCOMAPILib.dll
+G:\Projects\VisualStudio\RdpClient\RdpClient\obj\Debug\RdpClient.csproj.ResolveComReference.cache
+G:\Projects\VisualStudio\RdpClient\RdpClient\bin\Debug\Interop.RDPCOMAPILib.dll
+G:\Projects\VisualStudio\RdpClient\RdpClient\bin\Debug\AxInterop.RDPCOMAPILib.dll
+G:\Projects\VisualStudio\RdpClient\RdpClient\obj\Debug\RdpClient.Form2.resources

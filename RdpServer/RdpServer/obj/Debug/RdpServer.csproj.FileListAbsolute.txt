@@ -1,0 +1,11 @@
+G:\Projects\VisualStudio\RdpServer\RdpServer\bin\Debug\RdpServer.exe.config
+G:\Projects\VisualStudio\RdpServer\RdpServer\bin\Debug\RdpServer.exe
+G:\Projects\VisualStudio\RdpServer\RdpServer\bin\Debug\RdpServer.pdb
+G:\Projects\VisualStudio\RdpServer\RdpServer\obj\Debug\RdpServer.Properties.Resources.resources
+G:\Projects\VisualStudio\RdpServer\RdpServer\obj\Debug\RdpServer.csproj.GenerateResource.Cache
+G:\Projects\VisualStudio\RdpServer\RdpServer\obj\Debug\RdpServer.exe
+G:\Projects\VisualStudio\RdpServer\RdpServer\obj\Debug\RdpServer.pdb
+G:\Projects\VisualStudio\RdpServer\RdpServer\obj\Debug\RdpServer.csprojResolveAssemblyReference.cache
+G:\Projects\VisualStudio\RdpServer\RdpServer\obj\Debug\Interop.RDPCOMAPILib.dll
+G:\Projects\VisualStudio\RdpServer\RdpServer\obj\Debug\RdpServer.csproj.ResolveComReference.cache
+G:\Projects\VisualStudio\RdpServer\RdpServer\obj\Debug\RdpServer.Rdp_Server.resources
